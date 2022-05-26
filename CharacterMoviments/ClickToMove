@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.AI;
-
+ 
 public class Controle_ClickToMove : MonoBehaviour
 {
 
